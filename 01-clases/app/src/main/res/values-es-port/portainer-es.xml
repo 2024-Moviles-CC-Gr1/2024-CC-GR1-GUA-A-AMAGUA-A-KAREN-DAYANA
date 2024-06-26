@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Porteiner texto en Español</string>
+    <color name="colorFondo">#FF335B</color>
+    <color name="colorTexto">#FBFBFB</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Landscape texto en Español</string>
+    <color name="colorFondo">#3399FF</color>
+    <color name="colorTexto">#FFBB33</color>
+</resources>
