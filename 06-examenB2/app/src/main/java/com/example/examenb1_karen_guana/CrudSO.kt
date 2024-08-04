@@ -8,7 +8,6 @@ import android.widget.EditText
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
-import java.util.Date
 
 class CrudSO : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

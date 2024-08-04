@@ -13,7 +13,6 @@ import android.widget.ListView
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
-import java.util.Date
 
 class SOListView : AppCompatActivity() {
     val arreglo = BaseDeDatos.tablas!!.obtenerTodosSistemasOperativos()
